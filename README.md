@@ -1,1 +1,1 @@
-Opensource Perplexity Clone
+Opensource Perplexity Clone CLI tool
